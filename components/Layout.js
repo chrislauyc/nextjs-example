@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import styles from './Layout.module.css' //css module specific to layout
 import utilStyles from '../styles/utils.module.css' //css module used across multiple components
-import Link from 'next/Link';
+import Link from 'next/link';
 
 const name = 'Chris Lau'
 export const siteTitle = 'Next.js Sample Website'
