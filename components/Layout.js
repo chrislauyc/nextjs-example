@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import styles from './layout.module.css' //css module specific to layout
+import styles from './Layout.module.css' //css module specific to layout
 import utilStyles from '../styles/utils.module.css' //css module used across multiple components
 import Link from 'next/Link';
 
